@@ -4,3 +4,9 @@
 
 
 NAPOLEON = "Able was I, ere I saw Elba."
+
+REVERSE = NAPOLEON[::-1]
+
+REVERSE = REVERSE.lower()
+
+print REVERSE
